@@ -134,10 +134,3 @@ Our results demonstrate that tree-based models, particularly the Decision Tree m
 Our research highlights the importance of considering both big data technologies and appropriate machine learning models in the detection of ransom-related Bitcoin transactions. While complex models like ensemble methods did not significantly outperform simpler models in this context, the use of big data technologies for processing and analyzing vast datasets proved valuable.
 
 Future work in this area may involve exploring more advanced machine learning techniques, improving feature engineering, and incorporating additional data sources to enhance the accuracy of ransomware detection and location prediction in Bitcoin transactions.
-
-## References
-[1] Author, A. (Year). Title of the paper. Journal Name, Volume(Issue), Page numbers.
-
-[2] Author, B. (Year). Title of the book. Publisher.
-
-[3] Author, C. (Year). Title of the article. Magazine Name, Volume(Issue), Page numbers.
