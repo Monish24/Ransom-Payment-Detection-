@@ -40,7 +40,7 @@ This section aims to link our submission to existing knowledge by providing a co
 ## Datasets
 The dataset used in this study is obtained from UCI and comprises multivariate, time-series data of Bitcoin transaction graphs from 2009 to 2018. With over 2.9 million instances and 10 attributes, it encompasses a range of integer and real characteristics. The dataset was donated on June 17, 2020, and has been employed for classification and clustering tasks.
 
-The rapid growth and increasing complexity of ransomware attacks have necessitated the use of big data techniques to better understand and mitigate these threats. By employing a comprehensive dataset of Bitcoin transactions, this study aims to leverage the power of big data analytics to identify patterns and trends associated with ransomware activities.
+The rapid growth and increasing complexity of ransomware attacks have necessitated the use of big data techniques to better understand and mitigate these threats. By employing a comprehensive dataset of Bitcoin transactions, this study aims to leverage the power of big data analytics to identify patterns and trends associated with ransomware activities
 
 The rationale behind using big data techniques in this context includes the ability to process and analyze large amounts of information quickly and accurately, as well as the opportunity to uncover hidden patterns and trends that may be difficult to detect using traditional analysis methods. By employing big data analytics, we can better discern the unique characteristics of ransomware transactions and develop more effective strategies for combating these malicious activities.
 
