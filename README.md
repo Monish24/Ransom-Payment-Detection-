@@ -1,7 +1,7 @@
 # Ransomware Bitcoin Transaction Analysis
 
 ## Abstract
-Ransomware attacks have emerged as a significant concern in the realm of cybercrime, with Bitcoin transactions frequently employed for ransom demands. Identifying and locating such transactions is critical for addressing this problem. In this project, we propose the use of machine learning models to detect ransom-related Bitcoin transactions and categorize them by their location. The datset spans from 2009 to 2018 and comprises over 2.9 million instances with 11 attributes
+Ransomware attacks have emerged as a significant concern in the realm of cybercrime, with Bitcoin transactions frequently employed for ransom demands. Identifying and locating such transactions is critical for addressing this problem. In this project, we propose the use of machine learning models to detect ransom-related Bitcoin transactions and categorize them by their location. The dataset spans from 2009 to 2018 and comprises over 2.9 million instances with 11 attributes
 
 To handle this extensive dataset, we use big data technologies like Spark for parallel processing and faster outcomes. We assess the efficacy of various machine learning models, including logistic regression, an ensemble of logistic regression, a decision tree, and a random forest, for detecting ransomware-associated transactions. With the use of bagging, we combine the results of multiple models and evaluate their performance using metrics such as recall, precision, and the macro F1 score
 
